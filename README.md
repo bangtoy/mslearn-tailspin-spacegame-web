@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ischaq/DotNet/_apis/build/status%2FSpaceGame?branchName=main)](https://dev.azure.com/ischaq/DotNet/_build/latest?definitionId=12&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
